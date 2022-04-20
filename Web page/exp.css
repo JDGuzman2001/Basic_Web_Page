@@ -1,0 +1,44 @@
+
+.imagen_experiencia{
+    
+    width: 100x;
+    height: 200px;
+    float: right;
+}
+h2{
+    text-align: center;
+}
+h1{
+    font-family: 'Cinzel', serif;
+}
+p{
+    text-align: left;
+    margin-right: 40%;
+    margin-left: 8%;
+}
+h3{
+    font-family: cursive;
+    font-size: large;
+    text-align: left;
+    margin-left: 2%;
+}
+h4{
+    font-family: monospace;
+    margin-left: 2%;
+}
+.idc-box{
+    margin-left: 10px;
+}
+.texto_princ{
+    text-align: left;
+    margin-right: 10%;
+    margin-left: 2%;
+
+}
+.lista{
+  list-style-type: disc;  
+  margin-left: 8%;
+}
+body{
+    background: #FDEBD0;
+}
